@@ -46,6 +46,8 @@ bool search(TrieNode *root,string word)
     
     if((root!=NULL) && (root->isEndofWord == true))
         return true;
+    
+    return false;
 }
 bool areChildrenPresent(TrieNode *root)
 {
