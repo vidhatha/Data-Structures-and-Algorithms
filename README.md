@@ -11,5 +11,5 @@ This is a sincere effort to re-learn all the computer programming fundamentals t
 
 [home]: https://github.com/vidhatha/Data-Structures-and-Algorithms/wiki
 [datastructures]: https://github.com/vidhatha/Data-Structures-and-Algorithms/wiki/Data-Structures
-[arrays]: https://github.com/vidhatha/Data-Structures-and-Algorithms/wiki/DS-:-Arrays
+[arrays]: https://github.com/vidhatha/Data-Structures-and-Algorithms/wiki/DS-:-Static-Arrays
 [references]: https://github.com/vidhatha/Data-Structures-and-Algorithms/wiki/References
