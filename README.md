@@ -6,7 +6,7 @@ This is a sincere effort to re-learn all the computer programming fundamentals t
 
 1. [Home][home]
 1. [Data Structures][datastructures]
-   1. [Arrays][arrays]
+   1. [Static Arrays][arrays]
 1. [References][references]
 
 [home]: https://github.com/vidhatha/Data-Structures-and-Algorithms/wiki
