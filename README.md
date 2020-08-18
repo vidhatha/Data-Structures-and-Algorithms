@@ -1,6 +1,5 @@
 # Data-Structures-and-Algorithms
 
-Table of Contents
 1. [Home][home]
 1. [Data Structures][datastructures]
    1. [Arrays][arrays]
