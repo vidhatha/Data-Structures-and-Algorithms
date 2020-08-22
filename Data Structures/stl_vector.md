@@ -3,6 +3,12 @@
 ### Syntax:
 > `vector< object_type > vector_name;`
 
+### Complexity
+The complexity (efficiency) of common operations on vectors is as follows:
+- Random access - constant O(1)
+- Insertion or removal of elements at the end - amortized constant O(1)
+- Insertion or removal of elements - linear in the distance to the end of the vector O(n)
+
 #### Element access:
 Function      | Description
 ------------- | -------------
@@ -48,7 +54,7 @@ cend | Return const_iterator to end
 crbegin | Return const_reverse_iterator to reverse beginning
 crend | Return const_reverse_iterator to reverse end
 
-### vector initialization
+### Initialization
 ```cpp
 int main()
 {
