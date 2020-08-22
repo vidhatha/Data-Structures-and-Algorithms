@@ -1,4 +1,4 @@
- std::vector is a sequence container that encapsulates dynamic size arrays.
+ **std::vector** is a sequence container that encapsulates dynamic size arrays.
  
 ### Syntax:
 > `vector< object_type > vector_name;`
