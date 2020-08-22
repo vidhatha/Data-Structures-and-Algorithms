@@ -1,4 +1,5 @@
-# Data-Structures-and-Algorithms
+# Programming-Fundamentals
+
 
 This is a sincere effort to re-learn all the computer programming fundamentals that I had learnt or forgotten to learn. Planning to begin learning from the core fundamentals and slowly move to advanced topics.
 
