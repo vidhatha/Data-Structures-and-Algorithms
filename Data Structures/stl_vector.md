@@ -52,7 +52,7 @@ crend | Return const_reverse_iterator to reverse end
 ```cpp
 int main()
 {
- 	vector<string> v0;
+	vector<string> v0;
 
 	//1. array-like initialization
 	vector<string> v1{"Testing", "vector", "initialization"};
@@ -74,9 +74,9 @@ int main()
 	int n = sizeof(arr)/sizeof(arr[0]);
 	vector<string> v5(arr, arr+n);
 
-    for(auto v: v5)
-    {
-        cout<<v<<endl;
-    }
+	for(auto v: v5)
+	{
+	cout<<v<<endl;
+	}
 }
 ```
