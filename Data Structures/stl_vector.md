@@ -47,3 +47,33 @@ cbegin | Return const_iterator to beginning
 cend | Return const_iterator to end
 crbegin | Return const_reverse_iterator to reverse beginning
 crend | Return const_reverse_iterator to reverse end
+
+#### vector initialization
+
+` int main()
+ 	vector<string> v0;
+  
+	//1. array-like initialization
+	vector<string> v1{"Testing", "vector", "initialization"};
+
+	//2. using push_back
+	vector<string> v2;
+	v2.push_back("Testing");
+	v2.push_back("vector");
+	v2.push_back("init using push_back");
+
+	//3. Initializing from another vector
+	vector<string> v3(v1.begin(), v1.end());
+
+	//4. Initialize a vector with one element a certain # of times
+	vector<string> v4(5, "init element 5 times");
+
+	//5. Initializing from an array
+	string arr[] = {"Init" , "using" , "array"};
+	int n = sizeof(arr)/sizeof(arr[0]);
+	vector<string> v5(arr, arr+n);
+
+    for(auto v: v5)
+    {
+        cout<<v<<endl;
+    }}`
