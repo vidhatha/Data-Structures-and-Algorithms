@@ -49,10 +49,11 @@ crbegin | Return const_reverse_iterator to reverse beginning
 crend | Return const_reverse_iterator to reverse end
 
 #### vector initialization
-
-` int main()
+```
+int main()
+{
  	vector<string> v0;
-  
+
 	//1. array-like initialization
 	vector<string> v1{"Testing", "vector", "initialization"};
 
@@ -76,4 +77,6 @@ crend | Return const_reverse_iterator to reverse end
     for(auto v: v5)
     {
         cout<<v<<endl;
-    }}`
+    }
+}
+```
