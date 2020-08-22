@@ -7,11 +7,13 @@ This is a sincere effort to re-learn all the computer programming fundamentals t
 1. [Home][home]
 1. [Data Structures][datastructures]
    1. [Static Arrays][arrays]
-   2. [Vectors/Dynamic Arrays][vectors]
+   1. [Vectors/Dynamic Arrays][vectors]
+   1. [Lists][lists]
 1. [References][references]
 
 [home]: https://github.com/vidhatha/Data-Structures-and-Algorithms/wiki
 [datastructures]: https://github.com/vidhatha/Data-Structures-and-Algorithms/wiki/Data-Structures
 [arrays]: https://github.com/vidhatha/Data-Structures-and-Algorithms/wiki/DS-:-Static-Arrays
 [vectors]: https://github.com/vidhatha/Data-Structures-and-Algorithms/blob/master/Data%20Structures/stl_vector.md
+[lists]: https://github.com/vidhatha/Data-Structures-and-Algorithms/blob/master/Data%20Structures/stl_list.md
 [references]: https://github.com/vidhatha/Data-Structures-and-Algorithms/wiki/References
