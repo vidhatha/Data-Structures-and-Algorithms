@@ -49,7 +49,7 @@ crbegin | Return const_reverse_iterator to reverse beginning
 crend | Return const_reverse_iterator to reverse end
 
 #### vector initialization
-```
+```cpp
 int main()
 {
  	vector<string> v0;
