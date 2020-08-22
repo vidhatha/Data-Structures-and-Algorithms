@@ -124,7 +124,7 @@ int main()
 	vector<int> vect_ins(3,100); //vect_ins = 100 100 100
 	vector<int>::iterator it;
 	
-it= vect_ins.begin();
+	it= vect_ins.begin();
 	it = vect_ins.insert(it, 200); //vect_ins = 200 100 100 100
 	
 	vect_ins.insert(it,2,300); //vect_ins = 300 300 200 100 100 100
@@ -132,7 +132,7 @@ it= vect_ins.begin();
 	//"it" no longer valid, get a new one.
 	it = vect_ins.begin();
 
-vector<int> vec_ins2(2, 400); //vec_ins2 = 400 400
+	vector<int> vec_ins2(2, 400); //vec_ins2 = 400 400
 	vect_ins.insert(it+2, vect_ins2.begin(), vect_ins2.end()); //vec_ins = 300 300 400 400 100 100 100
 
 	//erase operations
