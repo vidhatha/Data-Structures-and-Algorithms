@@ -12,7 +12,7 @@ This is a sincere effort to re-learn all the computer programming fundamentals t
    1. [Lists][lists]
 1. [References][references]
 
-[home]: https://github.com/vidhatha/Data-Structures-and-Algorithms/wiki
+[home]: https://github.com/vidhatha/Programming-Fundamentals/blob/master/Home.md
 [datastructures]: https://github.com/vidhatha/Data-Structures-and-Algorithms/wiki/Data-Structures
 [arrays]: https://github.com/vidhatha/Data-Structures-and-Algorithms/wiki/DS-:-Static-Arrays
 [vectors]: https://github.com/vidhatha/Data-Structures-and-Algorithms/blob/master/Data%20Structures/stl_vector.md
