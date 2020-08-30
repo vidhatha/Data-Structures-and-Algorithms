@@ -10,6 +10,7 @@ This is a sincere effort to re-learn all the computer programming fundamentals t
    1. [Static Arrays][arrays]
    1. [Vectors/Dynamic Arrays][vectors]
    1. [Lists][lists]
+   1. [Stacks](https://github.com/vidhatha/Programming-Fundamentals/blob/master/Data%20Structures/stl_stack.md)
 1. [References][references]
 
 [home]: https://github.com/vidhatha/Programming-Fundamentals/blob/master/Home.md
