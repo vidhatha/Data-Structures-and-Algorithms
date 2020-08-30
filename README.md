@@ -5,6 +5,7 @@ This is a sincere effort to re-learn all the computer programming fundamentals t
 
 **Disclaimer:** _Please note, Most if not all of the material is something I have gleaned from the internet. I have tried to add the links in the [References](https://github.com/vidhatha/Data-Structures-and-Algorithms/wiki/References) section. If I have missed anything, please let me know so that I am not infringing on any copyright._
 
+## Table of Contents
 1. [Home][home]
 1. [Data Structures][datastructures]
    1. [Static Arrays][arrays]
