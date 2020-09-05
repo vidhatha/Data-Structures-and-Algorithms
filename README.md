@@ -16,6 +16,15 @@ This is a sincere effort to re-learn all the computer programming fundamentals t
    1. Hash Tables
    1. Binary Search Trees
    1. Red-Black Trees
+   1. AVL Trees
+   1. Trie
+   1. Segment Tree
+   1. Suffix Tree
+   1. B Trees
+   1. kd Trees
+   1. Bloom Filters
+   1. Disjoint Set Data structures
+   1. Fibonacci Heap
 1. Algorithms
    1. Basic Sorting Algorithms
       1. Insertion Sort
