@@ -13,7 +13,54 @@ This is a sincere effort to re-learn all the computer programming fundamentals t
    1. [Lists](https://github.com/vidhatha/Data-Structures-and-Algorithms/blob/master/Data%20Structures/stl_list.md)
    1. [Stacks](https://github.com/vidhatha/Programming-Fundamentals/blob/master/Data%20Structures/stl_stack.md)
 1. Algorithms
-   1. [MergeSort](https://github.com/vidhatha/Programming-Fundamentals/blob/master/Algorithms/Sorting/MergeSort/mergesort.md)
-1. [References][references]
-
-[references]: https://github.com/vidhatha/Data-Structures-and-Algorithms/wiki/References
+   1. Basic Sorting Algorithms
+      1. Insertion Sort
+      1. Selection Sort
+      1. Heap Sort
+      1. Shuffling
+      1. Selection -> TBD
+   1. Divide and Conquer
+      1. Binary Search
+      1. [MergeSort](https://github.com/vidhatha/Programming-Fundamentals/blob/master/Algorithms/Sorting/MergeSort/mergesort.md)
+      1. Quick Sort
+         1. 3 way Quick Sort (Dijkstra)
+      1. Straseen Matrix Multiplication
+   1. Recursion
+      1. Substituion Method
+      1. Recursion Method
+      1. Master's Theorem
+   1. Graph Algorithms
+      1. Breadth-First Search
+      1. Depth First Search
+      1. Topological Sort
+      1. Minumum Spanning Trees
+         1. Kruskals MST
+         1. Prims MST
+      1. Shortest Path
+         1. Single Source Shortest Path
+            1.  Bellman Ford 
+            1. Dijkstra 
+         1. All-Pairs
+            1. Floyd-Warshall
+            1. Johnson
+      1. Maximum Flow
+         1. Ford-Fulkerson method
+         1. Maximum bi-partite matching         
+   1. Greedy Algorithms
+      1. Activity Selection Problem
+      1. Huffman Codes
+   1. String Matching
+      1. Native Pattern Searching
+      1. Robin-Karp
+      1. Knuth-Morris-Prat
+      1. Finite Automata
+      1. Boyes Moore
+   1. Back Tracking
+   1. Dynamic Programming
+   1. Computational Geometry
+      1. Convex Hull
+      1. Closest Pair of points
+      1. Line segment intersection
+   1. NP Completeness
+1. Bit Manipulations
+1. [References]
