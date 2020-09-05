@@ -57,6 +57,8 @@ This is a sincere effort to re-learn all the computer programming fundamentals t
    1. Dynamic Programming
    1. Computational Geometry
       1. Convex Hull
+         1. Jarvis March
+         1. Graham Scan
       1. Closest Pair of points
       1. Line segment intersection
    1. NP Completeness
