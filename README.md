@@ -33,7 +33,7 @@ This is a sincere effort to re-learn all the computer programming fundamentals t
       1. Breadth-First Search
       1. Depth First Search
       1. Topological Sort
-      1. Minumum Spanning Trees
+      1. Minimum Spanning Trees
          1. Kruskals MST
          1. Prims MST
       1. Shortest Path
