@@ -37,12 +37,10 @@ This is a sincere effort to re-learn all the computer programming fundamentals t
          1. Kruskals MST
          1. Prims MST
       1. Shortest Path
-         1. Single Source Shortest Path
-            1.  Bellman Ford 
-            1. Dijkstra 
-         1. All-Pairs
-            1. Floyd-Warshall
-            1. Johnson
+         1. Bellman Ford Single Source 
+         1. Dijkstra's Single Source 
+         1. Floyd-Warshall All-Pairs
+         1. Johnson All-Pairs
       1. Maximum Flow
          1. Ford-Fulkerson method
          1. Maximum bi-partite matching         
