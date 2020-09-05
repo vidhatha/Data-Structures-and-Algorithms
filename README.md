@@ -25,6 +25,7 @@ This is a sincere effort to re-learn all the computer programming fundamentals t
    1. Bloom Filters
    1. Disjoint Set Data structures
    1. Fibonacci Heap
+   1. Skip Lists
 1. Algorithms
    1. Basic Sorting Algorithms
       1. Insertion Sort
