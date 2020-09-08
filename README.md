@@ -76,5 +76,9 @@ This is a sincere effort to re-learn all the computer programming fundamentals t
       1. Closest Pair of points
       1. Line segment intersection
    1. NP Completeness
-1. Bit Manipulations
+   1. Bit Manipulations
+1. C++ Fundamentals
+   1. std::unique_ptr
+   1. std::async
+   1. strncpy
 1. [References]
