@@ -36,7 +36,7 @@ This is a sincere effort to re-learn all the computer programming fundamentals t
    1. Divide and Conquer
       1. Binary Search
       1. [MergeSort](https://github.com/vidhatha/Programming-Fundamentals/blob/master/Algorithms/Sorting/MergeSort/mergesort.md)
-      1. Quick Sort
+      1. [Quick Sort](https://github.com/vidhatha/Programming-Fundamentals/tree/master/Algorithms/Sorting/QuickSort)
          1. 3 way Quick Sort (Dijkstra)
       1. Straseen Matrix Multiplication
    1. Recursion
