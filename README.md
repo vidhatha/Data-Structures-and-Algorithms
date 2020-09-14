@@ -81,5 +81,7 @@ This is a sincere effort to re-learn all the computer programming fundamentals t
    1. std::unique_ptr
    1. std::async
    1. strncpy
-   1. [std::swap](http://www.cplusplus.com/reference/algorithm/swap/) 
+   1. [std::swap](http://www.cplusplus.com/reference/algorithm/swap/)
+   1. [constexpr](https://www.educative.io/edpresso/what-is-the-constexpr-keyword-in-cpp)
+   1. [std::string_view](https://www.educative.io/edpresso/what-is-the-cpp-string-view-in-cpp-17)
 1. [References]
