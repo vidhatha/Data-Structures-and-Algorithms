@@ -81,4 +81,5 @@ This is a sincere effort to re-learn all the computer programming fundamentals t
    1. std::unique_ptr
    1. std::async
    1. strncpy
+   1. [std::swap](http://www.cplusplus.com/reference/algorithm/swap/) 
 1. [References]
