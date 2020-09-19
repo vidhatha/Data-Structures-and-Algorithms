@@ -13,6 +13,7 @@ pop() | Delete the topmost element of the priority_queue
 swap | Swap elements of priority_queues
 emplace | This function is used to insert a new element into the priority queue container, the new element is added to the top of the priority queue.
 
+### Example:
 ```cpp
 #include <iostream>
 #include <queue>
