@@ -12,7 +12,7 @@ This is a sincere effort to re-learn all the computer programming fundamentals t
    1. [Vectors/Dynamic Arrays](https://github.com/vidhatha/Data-Structures-and-Algorithms/blob/master/Data%20Structures/stl_vector.md)
    1. [Lists](https://github.com/vidhatha/Data-Structures-and-Algorithms/blob/master/Data%20Structures/stl_list.md)
    1. [Stacks](https://github.com/vidhatha/Programming-Fundamentals/blob/master/Data%20Structures/stl_stack.md)
-   1. Priority Queues
+   1. [Priority Queues](https://github.com/vidhatha/Programming-Fundamentals/blob/master/Data%20Structures/stl_priority_queue.md)
    1. Hash Tables
    1. Binary Search Trees
    1. Red-Black Trees
