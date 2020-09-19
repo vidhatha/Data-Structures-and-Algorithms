@@ -1,5 +1,3 @@
-**std::list** are sequence containers that allow non-contiguous memory allocation.
- 
 ### Syntax:
 > `std::stack<object_type> stack_name;`
 
