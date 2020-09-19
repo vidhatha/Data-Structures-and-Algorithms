@@ -29,7 +29,7 @@ This is a sincere effort to re-learn all the computer programming fundamentals t
 1. Algorithms
    1. Basic Sorting Algorithms
       1. Insertion Sort
-      1. Selection Sort
+      1. [Selection Sort](https://github.com/vidhatha/Programming-Fundamentals/tree/master/Algorithms/Sorting/SelectionSort)
       1. Heap Sort
       1. Shuffling
       1. Selection -> TBD
