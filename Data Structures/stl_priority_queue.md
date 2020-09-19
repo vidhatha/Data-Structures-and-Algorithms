@@ -1,7 +1,7 @@
 ### Syntax:
 > `std::priority_queue<object_type> priority_queue_name;`
 
-#### Member functions:
+### Member functions:
 Function      | Description
 ------------- | -------------
 (constructor) | Construct priority_queue.
