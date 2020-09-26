@@ -1,7 +1,7 @@
 # Programming-Fundamentals
 
 
-This is a sincere effort to re-learn all the computer programming fundamentals that I had learnt or forgotten to learn. Planning to begin learning from the core fundamentals and slowly move to advanced topics.
+This is a sincere effort to learn all the computer programming fundamentals that I had learnt and forgotten or never learnt. Planning to begin learning from the core fundamentals and slowly move to advanced topics.
 
 **Disclaimer:** _Please note, Most if not all of the material is something I have gleaned from the internet. I have tried to add the links in the [References](https://github.com/vidhatha/Data-Structures-and-Algorithms/wiki/References) section. If I have missed anything, please let me know so that I am not infringing on any copyright._
 
