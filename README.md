@@ -77,5 +77,5 @@ This is a sincere effort to learn all the computer programming fundamentals that
       1. Line segment intersection
    1. NP Completeness
    1. Bit Manipulations
-1. C++ Fundamentals
+1. [C++ Fundamentals](https://github.com/vidhatha/Cpp-Fundamentals)
 1. [References]
